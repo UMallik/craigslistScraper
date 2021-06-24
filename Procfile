@@ -1,0 +1,1 @@
+web: gunicorn utsav_list.wsgi
